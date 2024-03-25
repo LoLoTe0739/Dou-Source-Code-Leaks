@@ -1,1 +1,1 @@
-Descarga los archivos del Dou en Realeses
+Descarga los archivos del Dou en Releases
